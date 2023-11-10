@@ -1,0 +1,14 @@
+{
+  "name": "add-function",
+  "version": "1.0.0",
+  "description": "function add sums up all the parameter from function",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "addition"
+  ],
+  "author": "",
+  "license": "ISC"
+}
